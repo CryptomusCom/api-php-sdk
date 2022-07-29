@@ -1,0 +1,16 @@
+{
+  "name": "cryptomus/api-php-sdk",
+  "description": "Cryptomus api SDK",
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": ">=5.6"
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Cryptomus\\Api\\": "src/"
+    }
+  }
+}
