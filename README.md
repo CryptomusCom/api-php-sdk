@@ -53,7 +53,7 @@ $data = [
     'network' => 'TRON',
     'order_id' => '555321',
     'address' => 'TXguLRFtrAFrEDA17WuPfrxB84jVzJcNNV',
-    'is_subtract' => '1'
+    'is_subtract' => '1',
     'url_callback' => 'https://example.com/callback'
 ];
 
@@ -183,7 +183,7 @@ $data = [
     'url_return' => 'https://example.com/return',
     'url_callback' => 'https://example.com/callback',
     'is_payment_multiple' => false,
-    'lifetime' => '7200'
+    'lifetime' => '7200',
     'to_currency' => 'ETH'
 ];
 
