@@ -2,7 +2,7 @@
 
 namespace Cryptomus\Api;
 
-final class RequestBuilder
+class RequestBuilder
 {
     const API_URL = "https://api.cryptomus.com/";
 

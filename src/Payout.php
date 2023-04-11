@@ -2,7 +2,7 @@
 
 namespace Cryptomus\Api;
 
-final class Payout
+class Payout
 {
     /**
      * @var RequestBuilder
