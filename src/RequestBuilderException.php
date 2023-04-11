@@ -2,7 +2,7 @@
 
 namespace Cryptomus\Api;
 
-final class RequestBuilderException extends \Exception
+class RequestBuilderException extends \Exception
 {
     /**
      * @var string

@@ -2,7 +2,7 @@
 
 namespace Cryptomus\Api;
 
-final class Client
+class Client
 {
     /**
      * @param string $payoutKey
